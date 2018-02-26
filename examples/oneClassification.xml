@@ -1,0 +1,125 @@
+<Livsmedel>
+    <Nummer>364</Nummer>
+    <Namn>Tomat</Namn>
+    <ViktGram>100</ViktGram>
+    <Huvudgrupp>Grönsaker </Huvudgrupp>
+    <Klassificeringar>
+        <Klassificering>
+            <Namn>A Gruppindelning EuroFIR</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Grönsaker och svamp</Namn>
+                    <Kod>A0826</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+        <Klassificering>
+            <Namn>B Artklassificering</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Tomat</Namn>
+                    <Kod>B1276</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+        <Klassificering>
+            <Namn>C Del av växt/djur</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Frukt eller bär, oskalad, kärna kvar</Namn>
+                    <Kod>C0140</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+        <Klassificering>
+            <Namn>E Fysisk form</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Hel, naturligt formad</Namn>
+                    <Kod>E0150</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+        <Klassificering>
+            <Namn>F Värmebehandling</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Ej värmebehandlad (rå)</Namn>
+                    <Kod>F0003</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+        <Klassificering>
+            <Namn>G Tillagning</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Tillagningsmetod ej tillämplig</Namn>
+                    <Kod>G0003</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+        <Klassificering>
+            <Namn>H Industriell process</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Ingen industriell process tillämpad</Namn>
+                    <Kod>H0003</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+        <Klassificering>
+            <Namn>J Konserveringsmetod</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Ej konserverad</Namn>
+                    <Kod>J0003</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+        <Klassificering>
+            <Namn>K Förpackningsmedium</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Utan förpackningsmedium</Namn>
+                    <Kod>K0003</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+        <Klassificering>
+            <Namn>M Förpackningstyp</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Opaketerad produkt</Namn>
+                    <Kod>M0003</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+        <Klassificering>
+            <Namn>N Förpackningsmaterial</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Oförpackad</Namn>
+                    <Kod>N0003</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+        <Klassificering>
+            <Namn>P Etikettinfo</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Människoföda</Namn>
+                    <Kod>P0026</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+        <Klassificering>
+            <Namn>R Land/område</Namn>
+            <Varden>
+                <KlassificeringVarde>
+                    <Namn>Europa</Namn>
+                    <Kod>R0355</Kod>
+                </KlassificeringVarde>
+            </Varden>
+        </Klassificering>
+    </Klassificeringar>
+</Livsmedel>
